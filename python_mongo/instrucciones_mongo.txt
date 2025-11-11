@@ -1,0 +1,9 @@
+PASOS PARA EJECUTAR:
+
+1. Instala MongoDB Community: https://www.mongodb.com/try/download/community
+2. Inicia el servicio: mongod
+3. Abre terminal en esta carpeta
+4. Ejecuta:
+   pip install -r requirements.txt
+   python main.py
+5. ¡Listo! Los datos llegan a MongoDB cada 2 segundos.
